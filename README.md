@@ -1,2 +1,2 @@
 # PengolahanCitra
-pert12
+pert13
